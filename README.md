@@ -13,7 +13,7 @@ FitFlex Gear is an online retail platform specializing in high-quality gym wear,
 
 ## How to Use
 
-1. **Browsing Products:** Visit our website at www.fitflexgear.com to browse our extensive collection of gym wear, equipment, and accessories.
+1. **Browsing Products:** Visit our website at fitflexgear.com to browse our extensive collection of gym wear, equipment, and accessories.
 
 2. **Product Selection:** Use the search bar or browse through categories to find the products that best suit your fitness goals and preferences.
 
